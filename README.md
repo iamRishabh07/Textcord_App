@@ -12,13 +12,20 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
   <li>Bootstrap4</li>
   </ul>
   
+ ## Usage
+```
+npm install
+npm run dev
 
-
-# Developer By
-Rishabh Srivastava
+Go to localhost:3000
+```
+  
 
 # License
 This project is licensed under the MIT License 
+
+# Author
+Rishabh Srivastava
 
 # Screenshots
 
